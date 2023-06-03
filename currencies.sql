@@ -16,8 +16,6 @@ SET time_zone = "+00:00";
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
 /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
 /*!40101 SET NAMES utf8mb4 */;
-https://www.youtube.com/watch?v=sEwFtQRRvos
-https://www.youtube.com/watch?v=ZEUpx-QRELA
 --
 -- Database: `ibnsino`
 --
